@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Activities.NavigationMenuActivity">
+    <item
+        android:id="@+id/categories"
+        android:icon="@drawable/pins_filter_button"
+        app:showAsAction="always"
+        android:title="@string/categories"
+        ></item>
+    
+    <item
+        android:id="@+id/action_currentPos"
+        android:orderInCategory="100"
+        android:title="@string/current_position"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_FavZone1"
+        android:orderInCategory="100"
+        android:title="@string/favourite_zone_1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_FavZone2"
+        android:orderInCategory="100"
+        android:title="@string/favourite_zone_2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_FavZone3"
+        android:orderInCategory="100"
+        android:title="@string/favourite_zone_3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_FavZone4"
+        android:orderInCategory="100"
+        android:title="@string/favourite_zone_4"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_FavZone5"
+        android:orderInCategory="100"
+        android:title="@string/favourite_zone_5"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ranking_spinner">
+        <item>Alltime</item>
+        <item>Monthly</item>
+        <item>Weekly</item>
+    </string-array>
+
+    <string-array name="service_example">
+        <item>Farmacia san josé</item>
+        <item>Gasolinera pepe</item>
+        <item>Casa pablo</item>
+        <item>Font publica</item>
+    </string-array>
+
+    <string-array name="users_example">
+        <item>M. Rajoy</item>
+        <item>D. de Cospedal</item>
+        <item>Leo Messi</item>
+        <item>Gabriel Rufián</item>
+    </string-array>
+
+    <string-array name="list_categories">
+        <item>Other</item>
+        <item>Pharmacy</item>
+        <item>Water Source</item>
+        <item>Supermarket</item>
+        <item>Police Station</item>
+        <item>Medical Emergencies</item>
+        <item>Gas Station</item>
+        <item>Gym</item>
+        <item>Parking</item>
+        <item>ATM Machine</item>
+        <item>Laundry</item>
+    </string-array>
+
+    <string-array name="list_categories_short">
+        <item>Other</item>
+        <item>Pharmacy</item>
+        <item>Water Source</item>
+        <item>Supermarket</item>
+        <item>Police Station</item>
+        <item>Medical Em.</item>
+        <item>Gas Station</item>
+        <item>Gym</item>
+        <item>Parking</item>
+        <item>ATM Machine</item>
+        <item>Laundry</item>
+    </string-array>
+</resources>

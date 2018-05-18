@@ -1,0 +1,40 @@
+COSES A FER:
+-AppSettings:                       Posar totes les opcions que vulguem
+-Controller i Valorations:          Valoracions llocs
+-Controller i Comments:             Comentaris llocs
+-Controller i Service i ServiceInformationActivity: Fotos llocs
+-??:                                Notificacions per mantenir actualitzada la base de dades
+-TOT:                               Interfície diferent per a user anònim//De moment mapa i nav header fet
+-Service:                           Enters que compten quantes vegades s'ha afegit o eliminat.
+-Controller i ??:                   Sistema punts
+-Ranking:
+-ServiceInformationActivity:        Boto update/delete
+-MapFragment i ServiceList:         Centrar en les favzones
+-AppSettings:                       Canviar el dialeg de gestio de favzones, per tal de poder canviar el nom, posicio, etc
+
+
+BUGS:
+-LogIn:                             coses rares amb el gmail
+-Pantalla gris al progress bar
+-Quan Location no esta activat a dins de AddService no es pot sortir fins que no s'activen.
+-Quan es canvia la imatge, al nav agafa el tamany que vol i es fa mes gran i no s'ajusta a l'imageview,
+i llavors no es veu ni el nom ni el mail.
+-De vegades quan es canvia la foto fa un crash molt bestia
+-De vegades al clicar el boto de rename de la info del servei despres de fer el update peta:
+ The specified child already has a parent. You must call removeView() on the child's parent first.
+
+Coses innecessaries però que poden quedar be:
+-Donar diverses opcions com a foto de fons del nav. Mateixa linia de colors blau/vermell/verd
+-3 vegades afegir servei per usuaris diferents per validar-ho
+-Interfície diferent per a moderador
+-Mirar què passa amb el login de facebook
+-No s'actualitza la foto del compte de google
+-Day/Night Theme (Amb el google map style també)
+-Colorins zones prefes
+-Foto user al nav rodona
+
+
+NOTACIÓ:
+-En cas de variables que són objectes (Spinner, EditText...) posem les primeres dues lletres de la paraula a la variable:
+ex: latitudeTeVi (TextView), addServiceBu(Button)
+-Tot en ANGLÈS

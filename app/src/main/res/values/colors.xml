@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#164ab0</color><!--	rgb(22, 74, 176) -->
+    <color name="colorPrimaryDark">#2b2a7d</color><!--	rgb(43, 42, 125) -->
+    <color name="colorAccent">#0e7ebe</color><!--	rgb(14, 126, 190) -->
+    <color name="colorPrimaryLight">#5b96ff</color><!--	rgb(91, 150, 255) -->
+    <color name="darkGray">#282828</color><!--	rgb(40, 40, 40) -->
+    <color name="darkestGray">#141414</color><!--	rgb(20, 20, 20) -->
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="logo_blue_dark">#222163</color><!--	rgb(34, 33, 99) -->
+    <color name="logo_blue">#237edc</color><!--		rgb(35, 126, 220) -->
+    <color name="logo_yellow">#ffffdf</color><!--	rgb(255, 255, 223) -->
+    <color name="service_color_other">#ff8c8c</color><!--  -->
+    <color name="service_color_pharmacy">#17be3c</color><!--  -->
+    <color name="service_color_water_source">#40c8e0</color><!--  -->
+    <color name="service_color_supermarket">#e6d228</color><!--  -->
+    <color name="service_color_police">#001491</color><!--  -->
+    <color name="service_color_medical_emergencies">#c10025</color><!--  -->
+    <color name="service_color_gas_station">#ff8000</color><!--  -->
+    <color name="service_color_gym">#e696e6</color><!--  -->
+    <color name="service_color_parking">#6531b1</color><!--  -->
+    <color name="service_color_atm_machine">#9d8052</color><!--  -->
+    <color name="service_color_laundry">#5a8c96</color><!--  -->
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Activities.ServiceInformationActivity">
+
+    <item
+        android:id="@+id/check_service"
+        android:icon="@drawable/check_service"
+        app:showAsAction="always"
+        android:title="@string/categories"
+        ></item>
+
+    <item
+        android:id="@+id/update_service"
+        android:icon="@drawable/update_service"
+        app:showAsAction="always"
+        android:title="@string/categories"
+        ></item>
+
+    <item
+        android:id="@+id/remove_service"
+        android:icon="@drawable/remove_service"
+        app:showAsAction="always"
+        android:title="@string/categories"
+        ></item>
+</menu>
