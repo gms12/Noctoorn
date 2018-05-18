@@ -1,7 +1,6 @@
 package Model;
 
 import android.content.Context;
-import android.location.Location;
 
 import Controller.Controller;
 import edu.ub.pis2018.g5.a24hservice.R;

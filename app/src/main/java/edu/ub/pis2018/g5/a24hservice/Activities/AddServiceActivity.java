@@ -15,7 +15,7 @@ import Controller.Controller;
 import edu.ub.pis2018.g5.a24hservice.R;
 
 public class AddServiceActivity extends AppCompatActivity {
-    //Prova de commit
+
     private Controller controller;
 
     private Spinner serviceTypeSp;

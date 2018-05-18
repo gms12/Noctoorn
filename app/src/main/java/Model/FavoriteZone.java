@@ -1,7 +1,5 @@
 package Model;
 
-import com.google.android.gms.maps.model.LatLng;
-
 /**
  * Created by mpedembe7.alumnes on 03/05/18.
  */

@@ -5,7 +5,6 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
-import android.support.design.widget.AppBarLayout;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
@@ -31,12 +30,11 @@ public class ServiceInformationActivity extends AppCompatActivity {
     private Button viewOnMapBu, goBu;
     private Toolbar toolbar;
     private AlertDialog.Builder builderRename, builderRUSure;
-    private View viewRename, viewRUSure;
+    private View viewRename;
     private EditText newNameEdTe;
-    private Context contextRename, contextRUSure;
-    private LayoutInflater layoutInflaterRename, layoutInflaterRUSure;
+    private Context contextRename;
+    private LayoutInflater layoutInflaterRename;
     private net.opacapp.multilinecollapsingtoolbar.CollapsingToolbarLayout collapsingToolbar;
-    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

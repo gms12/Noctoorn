@@ -1,7 +1,5 @@
 package Model;
 
-import com.google.android.gms.maps.model.LatLng;
-
 public class Coordinates {
     private double latitude;
     private double longitude;
